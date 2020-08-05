@@ -1,4 +1,4 @@
-<h1 align='center>Hi there 👋, I am Abhay Gupta</h1>
+### Hi there 👋, I am Abhay Gupta
 
 <!--
 **guptag911/guptag911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
