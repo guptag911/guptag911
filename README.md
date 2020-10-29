@@ -33,5 +33,8 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - Chatbot was also developed for easy acess to this service.
 - Analytics were also running in the background which helps the user to determine his/her progress. Also manager can look on the work done by his/her team easily.
 
+**Achievements**
+🥇 Qualified Google CodeJam 2020
+🥈 Qualified Facebook HackerCup 2020
 
 
