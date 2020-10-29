@@ -25,7 +25,13 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/guptag911/">LinkedIn</a>
 
-
+**Work Experience**
+- <strong>Innovaccer</strong> as SDE Intern for 2 months.
+- Developed a Central Task Manager Service which handles all the task related issues of the organization.
+- Can collect tasks from services like Google Docs, Sheets, Slides, Jira, Confluence and Hubspot.
+- A special Gmail reply feature was also implemented, which reminds the user of the mails, he/she misght be interested in replying.
+- Chatbot was also developed for easy acess to this service.
+- Analytics were also running in the background which helps the user to determine his/her progress. Also manager can look on the work done by his/her team easily.
 
 
 
