@@ -11,7 +11,7 @@
   <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
-<img height="60" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
+<img height="150" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
 ![github](AREmoji_20201029_221208_20600.gif)
 ####  I am SOFTWARE DEVELOPER 😄🦄 
 I'm a software Developer and tech enthusiast whose primary aim  is to make reliable and efficient software by efficent use of data structres and algorithms. I want my softwares to leave an everlasting impression on my user's. I am a quick learner and will push my limits to grow and expand my knowledge base. 😊
