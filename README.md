@@ -3,7 +3,7 @@
 
 <img height="280" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
 
-####  I am SOFTWARE DEVELOPER 😄🦄 
+####  I am SOFTWARE DEVELOPER 😄💻
 I'm a software Developer and tech enthusiast whose primary aim  is to make reliable and efficient software by efficent use of data structres and algorithms. I want my softwares to leave an everlasting impression on my user's. I am a quick learner and will push my limits to grow and expand my knowledge base. 😊
 
 **Languages and Tools:**  
@@ -20,13 +20,11 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 <code><img height="35" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png"></code>
 
 
-- 🌱  WEB DEVELOPER || PYTHON DEVELOPER
-- 😄 Python || C++ || HTML || CSS || JAVASCRIPT
-- 🤔 I’m learning REACT || NodeJS || MongoDB
+- 🌱  WEB DEVELOPER || PYTHON DEVELOPER || SOFTWARE DEVELOPER
+- 😄 Python || C++ || C || HTML || CSS || Django || Firebase
 - Connect with Me:  
-- 📫 <a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">LinkedIn</a>
-- 💼 <a href="https://twitter.com/AnjaliC62057085">Twitter</a>
-- 💬 <a href="https://www.blogger.com/profile/11038997497995701306">Blogs</a>
+- 📫 <a href="https://www.linkedin.com/in/guptag911/">LinkedIn</a>
+
 
 
 
@@ -42,6 +40,3 @@ Golang       45 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<a href="https://www.linkedin.com/in/guptag911/">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
