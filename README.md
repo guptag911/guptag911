@@ -1,14 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](https://github.com/anjali1102/anjali1102/blob/master/Hello.gif?raw=true) 
 ![Name](text.gif) 
 
-<a href="https://twitter.com/AnjaliC62057085">
-  <img align="left" alt="Twitter Icon" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">
+<a href="https://www.linkedin.com/in/guptag911/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.blogger.com/profile/11038997497995701306">
-  <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 <img height="250" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
