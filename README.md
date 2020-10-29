@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](Hello.gif) 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](https://github.com/anjali1102/anjali1102/blob/master/Hello.gif?raw=true) 
 ![Name](name.gif) 
 
 <a href="https://twitter.com/AnjaliC62057085">
