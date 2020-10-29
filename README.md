@@ -11,7 +11,7 @@
   <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
-![github](https://user-images.githubusercontent.com/56559378/88052779-663cdc00-cb78-11ea-99f8-520ff3c7d037.png)
+![github](AREmoji_20201029_221208_20600.gif)
 ####  I am SOFTWARE DEVELOPER 😄🦄 
 I'm a software Developer and tech enthusiast whose primary aim  is to make reliable and efficient software by efficent use of data structres and algorithms. I want my softwares to leave an everlasting impression on my user's. I am a quick learner and will push my limits to grow and expand my knowledge base. 😊
 
