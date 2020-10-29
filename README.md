@@ -26,7 +26,7 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - 📫 <a href="https://www.linkedin.com/in/guptag911/">LinkedIn</a>
 
 **Work Experience**
-- <strong>Innovaccer</strong> as SDE Intern for 2 months.
+- <strong>Innovaccer</strong> as SDE Intern for 2 months.<image height="35" src="https://www.innovaccer.com/media/profiles_image/logo-innovaccer-full.png">
 - Developed a Central Task Manager Service which handles all the task related issues of the organization.
 - Can collect tasks from services like Google Docs, Sheets, Slides, Jira, Confluence and Hubspot.
 - A special Gmail reply feature was also implemented, which reminds the user of the mails, he/she misght be interested in replying.
@@ -34,15 +34,4 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - Analytics were also running in the background which helps the user to determine his/her progress. Also manager can look on the work done by his/her team easily.
 
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-Javscript    5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Python       4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-React        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Golang       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-<!--END_SECTION:waka-->
 
