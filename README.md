@@ -25,7 +25,7 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/guptag911/">LinkedIn</a>
 
-**Work Experience**
+#### Work Experience
 - <code><image height="35" src="https://www.innovaccer.com/media/profiles_image/logo-innovaccer-full.png"> || SDE Intern || 2 mos</code>
 - Developed a Central Task Manager Service which handles all the task related issues of the organization.
 - Can collect tasks from services like Google Docs, Sheets, Slides, Jira, Confluence and Hubspot.
@@ -33,7 +33,7 @@ I'm a software Developer and tech enthusiast whose primary aim  is to make relia
 - Chatbot was also developed for easy acess to this service.
 - Analytics were also running in the background which helps the user to determine his/her progress. Also manager can look on the work done by his/her team easily.
 
-**Achievements**
+#### Achievements
 🥇 Qualified Google CodeJam 2020
 🥈 Qualified Facebook HackerCup 2020
 
