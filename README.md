@@ -1,11 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](https://github.com/anjali1102/anjali1102/blob/master/Hello.gif?raw=true) 
 ![Name](text.gif) 
 
-<a href="https://www.linkedin.com/in/guptag911/">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<img height="250" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
+<img height="260" src="https://github.com/guptag911/guptag911/blob/master/AREmoji_20201029_221208_20600.gif?raw=true">
 ![github](AREmoji_20201029_221208_20600.gif)
 ####  I am SOFTWARE DEVELOPER 😄🦄 
 I'm a software Developer and tech enthusiast whose primary aim  is to make reliable and efficient software by efficent use of data structres and algorithms. I want my softwares to leave an everlasting impression on my user's. I am a quick learner and will push my limits to grow and expand my knowledge base. 😊
@@ -52,3 +48,7 @@ React        1 hr 8 mins     █░░░░░░░░░░░░░░░░
 Golang       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
+
+<a href="https://www.linkedin.com/in/guptag911/">
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
